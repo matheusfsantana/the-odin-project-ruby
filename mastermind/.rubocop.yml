@@ -14,3 +14,6 @@ AllCops:
 
 Style/FrozenStringLiteralComment:
   EnforcedStyle: never
+
+Documentation:
+  Enabled: false
